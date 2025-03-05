@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Teng Junshan</h1>
 <h3 align="center">I am currently a student studying computer science at Asia Pacific University and hope to further my studies at diploma</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=janson&label=Profile%20views&color=0e75b6&style=flat" alt="janson" /> </p>
-
 - 🌱 I’m currently learning **Python, Java and front-end languages**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Janson-tired](https://github.com/Janson-tired)
